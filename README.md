@@ -10,3 +10,5 @@ I'm currently pursuing an **M.S. in Computer Science** through Georgia Tech's OM
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adambalam)
 
 **Languages & Tools:** React · Java · Kotlin · Python · TypeScript  · Spring Boot · Quarkus · GraphQL · SQL · Kafka · Docker · Kubernetes
+
+> Note: I'm unable to publish my Georgia Tech OMSCS coursework publicly while enrolled (per academic integrity policy), but I'm happy to walk through any of it directly. Feel free to reach out (assuming you're not a current student 👀).
